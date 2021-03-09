@@ -15,7 +15,7 @@
 #import task_04
 #import task_05
 #import task_06
-import task_07
+#import task_07
 #import task_08
 #import task_09
-#import task_10
+import task_10
